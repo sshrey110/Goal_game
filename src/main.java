@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by SANDEEP on 7/10/2015.
+ * Created by shrey on 7/10/2015.
  */
 public class main {
     static Scanner key = new Scanner(System.in);
